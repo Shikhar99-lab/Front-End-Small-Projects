@@ -1,4 +1,4 @@
-# SVG Filter Gooey Share, Social Media Button
+Share, Social Media Button
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/shikhar99-lab/pen/QWENKQz](https://codepen.io/shikhar99-lab/pen/QWENKQz).
 
